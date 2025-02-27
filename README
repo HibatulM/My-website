@@ -1,0 +1,21 @@
+# Hibatul Muqeet's Personal Website
+
+
+Welcome to the repository for my personal website! This project's aim is to have a fully responsive website that showcases my skills and allows any viewer to have a quick overview over all the projects/portfolios. 
+
+---
+
+## **Upcoming Features**
+- **Responsive Design**: Works seamlessly on all devices (desktop, tablet, mobile).
+- **Portfolio Section**: Highlights my projects with descriptions, images, and links.
+- **Contact Form**: Allows visitors to send me messages directly.
+- **Dark/Light Mode**: This website supports dark/light mode for a better viewing experience.
+- **Text to Speech**: This is an accesibility feature   
+
+---
+
+## ** Technologies Used**
+- **Frontend**: HTML, CSS, JavaScript, [Framework: React]
+- **Backend**: Node js
+- **Deployment**: Github
+- **Tools**: VSCode
