@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel = "home.css" href="home.css">
@@ -18,6 +18,24 @@
         </form>
         <button class="button">Contact me!! </button>  
         <a href="login.html" class = "button class">Text in the button </a>
+        
+        <div class="firebase">
+            <form class="add">
+                <label for="title">Title:</label>
+                <input type="text" name="title" required/>
+                <label for="hobby">Hobby:</label>
+                <input type="text" name="hobby" required/>
+
+                <button>add a new hobby</button>
+            </form>
+
+            <form class="delete">
+                <label for="id">Document id:</label>
+                <input type="text" name="id" required/>
+
+                <button>Delete a hobby</button>
+            </form>
+        </div>
         <script src="bundle.js"></script>
     </body>
 </html>
