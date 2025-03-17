@@ -1,0 +1,45 @@
+  /*Background -- dark purple 
+    Box border: light purple (try pink as sub)
+    Fill -- pink (alt purple)  
+*/
+  
+div {
+  width: 800px;
+  padding: 20px;
+  margin: 20px; 
+  border: 15px solid #A888B5;
+  color: black;
+  background-color: #EFB6C8;
+  justify-self: center;
+  text-align: center;
+  font-size:xx-large;
+}
+
+
+body {
+  background-color: #441752;
+  margin-top: 20px;
+  
+}
+
+
+h1 {
+  color: #8785A2;
+  margin-left: 20px;
+}
+.button {
+  background-color: #A888B5;
+  border: none;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+p {
+  color:#441752;
+
+}
+
+  
